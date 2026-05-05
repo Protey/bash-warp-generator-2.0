@@ -48,16 +48,16 @@ AllowedIPs = 0.0.0.0/0, ::/0
 Endpoint = 162.159.192.1:500
 
 [Obfuscation]
-Type = amnezia
-JunkPacketCount = 120
-JunkPacketMinSize = 23
-JunkPacketMaxSize = 911
-InitPacketJunkSize = 1
-ResponsePacketJunkSize = 2
-InitPacketMagicHeader = 1
-ResponsePacketMagicHeader = 2
-UnderloadPacketMagicHeader = 3
-TransportPacketMagicHeader = 4
+obfuscation = amnezia
+junkPacketCount = 120
+junkPacketMinSize = 23
+junkPacketMaxSize = 911
+initPacketJunkSize = 1
+responsePacketJunkSize = 2
+initPacketMagicHeader = 1
+responsePacketMagicHeader = 2
+underloadPacketMagicHeader = 3
+transportPacketMagicHeader = 4
 EOM
 )
 
