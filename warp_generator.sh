@@ -123,7 +123,7 @@ echo "${conf}"
 
 echo -e "\n"
 conf_base64=$(echo -n "${conf}" | base64 -w 0)
-echo "Скачать конфиг файлом: https://immalware.vercel.app/download?filename=WARP.conf&content=${conf_base64}"
+echo "Скачать конфиг файлом: https://protey.vercel.app/download?filename=WARP.conf&content=${conf_base64}"
 echo "Импортируйте конфиг в приложение AmneziaVPN! Приложение AmneziaWG не поддерживает этот формат!"
 echo -e "\n"
 echo "Что-то не получилось? Есть вопросы? Пишите в чат: https://t.me/immalware_chat"
