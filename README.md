@@ -8,7 +8,7 @@
 2. Выбираем **`debian`**
 3. Вставляем команду (Shift + Insert):
 ```bash
-bash <(wget --inet4-only -qO- https://raw.githubusercontent.com/Protey/bash-warp-generator/main/warp_generator.sh)
+bash <(wget --inet4-only -qO- https://raw.githubusercontent.com/Protey/bash-warp-generator-2.0/main/warp_generator.sh)
 ```
 4. После того, как конфиг сгенерируется, копируем его, либо скачиваем файлом по ссылке и импортируем в AmneziaVPN!👍
 
@@ -19,7 +19,7 @@ bash <(wget --inet4-only -qO- https://raw.githubusercontent.com/Protey/bash-warp
 4. Terminal
 5. Вставляем команду (Shift + Insert):
 ```bash
-bash <(wget --inet4-only -qO- https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh)
+bash <(wget --inet4-only -qO- https://raw.githubusercontent.com/Protey/bash-warp-generator-2.0/main/warp_generator.sh)
 ```
 6. После того, как конфиг сгенерируется, копируем его, либо скачиваем файлом по ссылке и импортируем в AmneziaVPN!👍
 
@@ -30,7 +30,7 @@ bash <(wget --inet4-only -qO- https://raw.githubusercontent.com/ImMALWARE/bash-w
 4. После того, как конфиг сгенерируется, копируем его, либо скачиваем файлом по ссылке и импортируем в AmneziaVPN!👍
 
 ## Вариант 4: GitHub Codespaces
-1. Переходим по ссылке: https://github.com/Protey/bash-warp-generator/codespaces
+1. Переходим по ссылке: https://github.com/Protey/bash-warp-generator-2.0/codespaces
 2. Вводим учётные данные GitHub (потребуется авторизация, если вы не вошли в аккаунт)
 3. Нажимаем **`Create codespace on main`**
 4. Дожидаемся, пока среда загрузится (может занять 10–30 секунд)
@@ -40,7 +40,7 @@ bash warp_generator.sh
 ```
 6. После того, как конфиг сгенерируется, копируем его, либо скачиваем файлом по ссылке и импортируем в AmneziaVPN!👍
 7. После завершения можно **удалить codespace**:  
-   - Переходим в https://github.com/Protey/bash-warp-generator/codespaces
+   - Переходим в https://github.com/Protey/bash-warp-generator-2.0/codespaces
    - Нажимаем на три точки → **Delete**  
    *GitHub удаляет Codespaces автоматически через некоторое время бездействия, но лучше удалить сразу.*
 
